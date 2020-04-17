@@ -7,3 +7,4 @@ tommi	4321;
 vasya1	vasya1;
 Login and Password for admin:
 admin admin
+You can also see fotos of interface in folder called the same
